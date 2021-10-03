@@ -1,5 +1,7 @@
 # Earn the Fanatic Badge on Stack Overflow
 
+*This fork removes the sendgrid addon from the requirements. That means that the heroku deploy button works without billing info provided, but of course sendgrid (email notifications) will not work.*
+
 A Python script deployed to Heroku that performs automatic logins on stackoverflow.com on a regular basis, so that you can earn the **Fanatic** badge, effortlessly.
 
 [Fanatic Badge](https://stackoverflow.com/help/badges/83/fanatic)
