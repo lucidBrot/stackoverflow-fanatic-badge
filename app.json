@@ -1,7 +1,7 @@
 {
   "name": "Stack Overflow fanatic badge",
   "description": "Earn the fanatic badge on Stack Overflow, effortlessly",
-  "repository": "https://github.com/alexsomai/stackoverflow-fanatic-badge",
+  "repository": "https://github.com/lucidBrot/stackoverflow-fanatic-badge",
   "keywords": [
     "python",
     "stack_overflow",
@@ -9,7 +9,7 @@
   ],
   "addons": [
     {
-      "plan": "sendgrid:starter"
+
     }
   ],
   "buildpacks": [
