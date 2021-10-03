@@ -37,7 +37,7 @@ Alternatively, you can follow the (less detailed) quick start below.
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alexsomai/stackoverflow-fanatic-badge/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lucidBrot/stackoverflow-fanatic-badge/tree/master)
 
 Once deployed, set the following Config Vars in Heroku app Settings:
 
