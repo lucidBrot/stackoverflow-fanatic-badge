@@ -2,6 +2,8 @@
 
 *This fork removes the sendgrid addon from the requirements. That means that the heroku deploy button works without billing info provided, but of course sendgrid (email notifications) will not work.*
 
+*The requirements have been changed as well, to fix an error that [only timezones from the pytz library are supported](https://github.com/Yelp/elastalert/issues/2968#issuecomment-721193420)*
+
 A Python script deployed to Heroku that performs automatic logins on stackoverflow.com on a regular basis, so that you can earn the **Fanatic** badge, effortlessly.
 
 [Fanatic Badge](https://stackoverflow.com/help/badges/83/fanatic)
