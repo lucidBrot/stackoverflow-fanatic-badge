@@ -4,6 +4,8 @@
 
 *The requirements have been changed as well, to fix an error that [only timezones from the pytz library are supported](https://github.com/Yelp/elastalert/issues/2968#issuecomment-721193420)*
 
+Despite those fixes, it did not seem to work correctly, so I am archiving this fork.
+
 A Python script deployed to Heroku that performs automatic logins on stackoverflow.com on a regular basis, so that you can earn the **Fanatic** badge, effortlessly.
 
 [Fanatic Badge](https://stackoverflow.com/help/badges/83/fanatic)
